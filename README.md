@@ -1,1 +1,1 @@
-# grade-calculator
+# Grade Calculator
